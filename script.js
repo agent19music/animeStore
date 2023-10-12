@@ -108,3 +108,6 @@ function displayAnimes() {
                 });
           
           }          
+
+// Initial load of animes
+displayAnimes();          
