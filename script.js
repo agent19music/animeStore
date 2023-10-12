@@ -110,4 +110,26 @@ function displayAnimes() {
           }          
 
 // Initial load of animes
-displayAnimes();          
+displayAnimes();
+
+function deleteAnime(animeId) {
+  console.log('Deleting anime with ID: ' + animeId);
+    let url = `http://localhost:3000/animes/${animeId}`;
+    fetch(url, {
+      method: 'DELETE',
+    })
+      .then((res) => {
+        if (res.ok) {
+          return res.json();
+        }
+        throw new Error('Network response was not ok.');
+      })
+      .then(() => {
+        alert('Anime deleted successfully');
+        // Reload the anime list after deletion
+        displayAnimes();
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+      });
+  }  
