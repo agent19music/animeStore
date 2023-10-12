@@ -61,3 +61,50 @@ function displayAnimes() {
             }
           });
           }
+
+          function displayMerchandise(animeId) {
+            let url = `http://localhost:3000/animes/${animeId}`;
+            fetch(url)
+                .then(res => {
+                    if (res.ok) {
+                        return res.json();
+                    }
+                    throw new Error('Network response was not ok.');
+                })
+                .then(anime => {
+                    let merchDisplay = document.querySelector('#mainDisplay');
+                    merchDisplay.innerHTML = ''; // Clear previous content
+                    if (anime.merchandise && anime.merchandise.length > 0) {
+                        anime.merchandise.forEach(item => {
+                            let merchElement = document.createElement('ul');
+                            merchElement.innerHTML = `<div class="tiles">
+                                <h2>${item.product_name}</h2>
+                                <img src="${item.image}" alt="${item.product_name}">
+                                <p>Description: ${item.product_description}</p>
+                                <p>Category: ${item.product_type}</p>
+                                <p>Price: $${item.price}</p>
+                                <p>In stock: ${item.inStock}</p>
+          
+                                <button class='buy-button' data-item-id="${item.id}">Buy</button>
+                                </div>
+                            `;
+          
+                             merchDisplay.appendChild(merchElement);
+          
+                             // Add event listener to the buy-button
+                             const buyButton = merchElement.querySelector('.buy-button');
+                             buyButton.addEventListener('click', () => {
+                                 console.log('click!'); // Log a click
+                                 alert('Thanks for your purchase :D !')
+                              
+                             });
+                        });
+                    } else {
+                        merchDisplay.innerHTML = '<p>No merchandise available for this anime.</p>';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+          
+          }          
