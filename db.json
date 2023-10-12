@@ -118,9 +118,9 @@
       "id": "3",
       "title": "Bleach",
       "release_date": "2004",
-      "episodes": 402,
+      "episodes": "402",
       "mc": "Ichigo Kurosaki",
-      "rating": 9.1,
+      "rating": "9.2",
       "description": " Ichigo Kurosaki, a teenager with the ability to see ghosts, becomes a Soul Reaper after accidentally obtaining their powers. He must protect the living world from evil spirits and guide lost souls to the afterlife while uncovering a world of supernatural intrigue.",
       "poster": "https://cdn.europosters.eu/image/750/posters/bleach-group-i30380.jpg",
       "merchandise": [
@@ -177,7 +177,8 @@
           "price": 29.99,
           "image": "https://media.entertainmentearth.com/assets/images/a39b6c46e9ea4f2eb57deaadd2b05053lg.jpg",
           "inStock": 10
-        },{
+        },
+        {
           "id": 7,
           "product_type": "Collectibles",
           "product_name": "Rangiku Hentai Manga",
@@ -186,7 +187,6 @@
           "image": "https://kingcomix.com/wp-content/uploads/2022/12/Rangiku-Comic-Pink-Pawg-3.jpg",
           "inStock": 10
         }
-
       ]
     },
     {
@@ -1044,9 +1044,7 @@
       "rating": 8.8,
       "description": "Former piano prodigy Kousei is living a somewhat uninspired life, until he meets Kaori, a free-spirited multi-instrumentalist",
       "poster": "https://www.arthipo.com/image/cache/catalog/poster/anime/1898-2381/anime2376-your-lie-in-april-6-763x1100.webp",
-      "merchandise":[
-       
-      ]
+      "merchandise": []
     },
     {
       "id": "26",
@@ -1057,7 +1055,7 @@
       "rating": 8.9,
       "description": "A street kid trying to survive in Night City — a technology and body modification-obsessed city of the future",
       "poster": "https://i.ebayimg.com/images/g/lFYAAOSwF4Fi45BS/s-l1600.jpg",
-      "merchandise":[
+      "merchandise": [
         {
           "id": 1,
           "product_type": "Clothing",
@@ -1066,26 +1064,25 @@
           "price": 19.99,
           "image": "https://m.media-amazon.com/images/I/A13usaonutL._AC_CLa%7C2140%2C2000%7C91VdYhSXEYL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_UY1000_.png",
           "inStock": 2
-      },
-      {
-        "id": 2,
-        "product_type": "Accessories",
-        "product_name": "Rebecca Gym Cup",
-        "product_description": "Water bottle with waifu print",
-        "price": 19.99,
-        "image": "https://preview.redd.it/rebecca-gym-cup-v0-4hl91ygpfyua1.jpg?width=640&crop=smart&auto=webp&s=f8205e54b94c7319d89b06d9cb631e0d046cda03",
-        "inStock": 1
-    },
-    {
-      "id": 3,
-      "product_type": "Collectibles",
-      "product_name": "Rebecca Waifu Pillow",
-      "product_description": "Rebecca life sixe waifu pillow",
-      "price": 159.99,
-      "image": "https://shop.mitgard.com/cdn/shop/products/Rebecca_cyberpunk_body-pillow-dakimakura_2-sides.jpg?v=1679755776",
-      "inStock": 1
-  }
-
+        },
+        {
+          "id": 2,
+          "product_type": "Accessories",
+          "product_name": "Rebecca Gym Cup",
+          "product_description": "Water bottle with waifu print",
+          "price": 19.99,
+          "image": "https://preview.redd.it/rebecca-gym-cup-v0-4hl91ygpfyua1.jpg?width=640&crop=smart&auto=webp&s=f8205e54b94c7319d89b06d9cb631e0d046cda03",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "product_type": "Collectibles",
+          "product_name": "Rebecca Waifu Pillow",
+          "product_description": "Rebecca life sixe waifu pillow",
+          "price": 159.99,
+          "image": "https://shop.mitgard.com/cdn/shop/products/Rebecca_cyberpunk_body-pillow-dakimakura_2-sides.jpg?v=1679755776",
+          "inStock": 1
+        }
       ]
     },
     {
@@ -1097,7 +1094,7 @@
       "rating": 8.4,
       "description": "The series follows the journey of two alchemist brothers, Edward and Alphonse Elric, who are searching for the philosopher's stone to restore their bodies after a failed attempt to bring their mother back to life",
       "poster": "https://cdn.europosters.eu/image/1300/posters/fullmetal-alchemist-key-art-i160464.jpg",
-      "merchandise":[
+      "merchandise": [
         {
           "id": 1,
           "product_type": "Clothing",
@@ -1106,29 +1103,26 @@
           "price": 19.99,
           "image": "https://cdn.media.amplience.net/s/hottopic/20626179_hi?$productTileDesktop$&fmt=auto",
           "inStock": 7
-      },
-      {
-        "id": 2,
-        "product_type": "Collectibles",
-        "product_name": "Roy Mustang Action Figure",
-        "product_description": "Roy Mustang  miniature action figure",
-        "price": 149.99,
-        "image": "https://now.estarland.com/images/products/27/62727/MERCH-Fullmetal-Alchemist-Brotherhood-Roy-ArtFX-J-Statue-large-image.jpg",
-        "inStock": 1
-    },
-    {
-      "id": 3,
-      "product_type": "Collectibles",
-      "product_name": "Edward's watch",
-      "product_description": "Edward`s Watch | Fullmetal Alchemist",
-      "price": 34.99,
-      "image": "https://www.otakustore.gr/files/products/12591-1b.jpg",
-      "inStock": 4
-  }
-
+        },
+        {
+          "id": 2,
+          "product_type": "Collectibles",
+          "product_name": "Roy Mustang Action Figure",
+          "product_description": "Roy Mustang  miniature action figure",
+          "price": 149.99,
+          "image": "https://now.estarland.com/images/products/27/62727/MERCH-Fullmetal-Alchemist-Brotherhood-Roy-ArtFX-J-Statue-large-image.jpg",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "product_type": "Collectibles",
+          "product_name": "Edward's watch",
+          "product_description": "Edward`s Watch | Fullmetal Alchemist",
+          "price": 34.99,
+          "image": "https://www.otakustore.gr/files/products/12591-1b.jpg",
+          "inStock": 4
+        }
       ]
     }
-
-
   ]
 }
