@@ -50,3 +50,45 @@ nav a:hover{
 #logo{
   border-radius: 5px;
 }
+
+#mainDisplay .tiles{
+  width: 180px;
+  padding: auto;
+ }
+ #mainDisplay {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   overflow: auto;
+   height: 100vh;
+   padding: 5px;
+ }
+ 
+ .tiles {
+   flex-basis: calc(33.33% - 10px);
+   margin: 15px; 
+   padding: 5px;
+ }
+ 
+ .tiles img{
+   width: 180px;
+ }
+ 
+ .update-anime:hover{
+   background-color: rgb(239, 157, 157);
+   color: white;
+ }
+ 
+ .shop:hover{
+   background-color: rgb(239, 157, 157);
+   color: white;
+ }
+ .delete-anime:hover{
+   background-color: red;
+   color: white;
+ }
+ 
+ .buy-button:hover{
+   background-color: rgb(239, 157, 157) ;
+   color: white;
+ }
