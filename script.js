@@ -190,3 +190,89 @@ function deleteAnime(animeId) {
         });
       });
   }  
+
+// Add an event listener to the "Add new anime" link
+document.getElementById('newAnime').addEventListener('click', function (e) {
+  e.preventDefault(); // Prevent the default behavior of the link
+
+  // Create the form and its elements
+  const formContainer = document.createElement('div');
+  formContainer.id = 'newAnimeForm';
+  formContainer.innerHTML = `
+      <h2>Add New Anime</h2>
+      <form id="anime-details-form">
+          <label for="title">Title:</label>
+          <input type="text" id="title" name="title" required>
+
+          <label for="releaseDate">Release Date:</label>
+          <input type="number" id="release_date" name="releaseDate" required>
+
+          <label for="description">Description:</label>
+          <textarea id="description" name="description" rows="4" required></textarea>
+
+          <label for="posterUrl">Poster URL:</label>
+          <input type="url" id="poster" name="posterUrl" required>
+
+          <label for="episodeCount">Episode Count:</label>
+          <input type="number" id="episodes" name="episodeCount" required>
+
+          <label for="viewerRating">Viewer Rating:</label>
+          <input type="number" id="rating" name="viewerRating" required step="0.01">
+
+          
+          <button type="submit">Add Anime</button>
+      </form>
+  `;
+
+  // Append the form to the mainDisplay div
+  const mainDisplay = document.getElementById('mainDisplay');
+  mainDisplay.innerHTML = ''; // Clear previous content
+  mainDisplay.appendChild(formContainer);
+
+  // Add an event listener to handle the form submission
+  document.getElementById('anime-details-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+
+      // Retrieve the entered details from the form
+      const animeDetails = {
+          title: document.getElementById('title').value,
+          release_date: document.getElementById('release_date').value,
+          description: document.getElementById('description').value,
+          poster: document.getElementById('poster').value,
+          episodes: parseInt(document.getElementById('episodes').value),
+          rating: parseFloat(document.getElementById('rating').value)
+      };
+
+      // Handle the data
+      console.log('New Anime Details:', animeDetails);
+
+      // Clear the form
+      document.getElementById('anime-details-form').reset();
+
+      addAnime(animeDetails)
+  });
+});
+
+// Function to add a new anime
+function addAnime(animeDetails) {
+  // Send a POST request to add the new anime on the backend
+  fetch('http://localhost:3000/animes', {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(animeDetails),
+  })
+  .then((res) => {
+      if (res.ok) {
+          return res.json();
+      }
+      throw new Error('Network response was not ok.');
+  })
+  .then((newAnime) => {
+     console.log('New Anime Added:', newAnime);
+  })
+  .catch((error) => {
+      console.error('Error:', error);
+  });
+}  
