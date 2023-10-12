@@ -1,5 +1,5 @@
 function displayAnimes() {
-  let url = 'http://localhost:3000/animes';
+  let url = 'https://animestore.onrender.com/animes';
   fetch(url)
       .then(res => res.json())
       .then(animes => {
@@ -63,7 +63,7 @@ function displayAnimes() {
           }
 
           function displayMerchandise(animeId) {
-            let url = `http://localhost:3000/animes/${animeId}`;
+            let url = `https://animestore.onrender.com/animes/${animeId}`;
             fetch(url)
                 .then(res => {
                     if (res.ok) {
@@ -114,7 +114,7 @@ displayAnimes();
 
 function deleteAnime(animeId) {
   console.log('Deleting anime with ID: ' + animeId);
-    let url = `http://localhost:3000/animes/${animeId}`;
+    let url = `https://animestore.onrender.com/animes/${animeId}`;
     fetch(url, {
       method: 'DELETE',
     })
@@ -135,7 +135,7 @@ function deleteAnime(animeId) {
   }  
 
   function updateAnime(animeId) {
-    fetch('http://localhost:3000/animes/' + animeId)
+    fetch('https://animestore.onrender.com/animes/' + animeId)
       .then((response) => response.json())
       .then((res) => {
         const updateContainer = document.getElementById('updateContainer');
@@ -166,7 +166,7 @@ function deleteAnime(animeId) {
           };
   
           // Send a PATCH request to update the anime
-          fetch('http://localhost:3000/animes/' + animeId, {
+          fetch('https://animestore.onrender.com/animes/' + animeId, {
             method: 'PATCH',
             headers: {
               'Content-Type': 'application/json',
@@ -256,7 +256,7 @@ document.getElementById('newAnime').addEventListener('click', function (e) {
 // Function to add a new anime
 function addAnime(animeDetails) {
   // Send a POST request to add the new anime on the backend
-  fetch('http://localhost:3000/animes', {
+  fetch('hhttps://animestore.onrender.com/animes', {
       method: 'POST',
       headers: {
           'Content-Type': 'application/json',
