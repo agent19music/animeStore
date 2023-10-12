@@ -133,3 +133,60 @@ function deleteAnime(animeId) {
         console.error('Error:', error);
       });
   }  
+
+  function updateAnime(animeId) {
+    fetch('http://localhost:3000/animes/' + animeId)
+      .then((response) => response.json())
+      .then((res) => {
+        const updateContainer = document.getElementById('updateContainer');
+        updateContainer.innerHTML = `
+          <h4>Update Form</h4>
+          <form id="updateForm">
+            <input type="text" id="title" placeholder="Enter Anime Title" value="${res.title}">
+            <input type="text" id="description" placeholder="Enter description" value="${res.description}">
+            <input type="text" id="poster" placeholder="Enter poster url" value="${res.poster}">
+            <input type="text" id="release-date" placeholder="Enter anime release date" value="${res.release_date}">
+            <input type="text" id="episodes" placeholder="Enter number of episodes aired" value="${res.episodes}">
+            <input type="text" id="rating" placeholder="Enter viewer rating" value="${res.rating}">
+            <button type="submit">Update</button>
+          </form>
+        `;
+  
+        // Add a submit event listener for the update form
+        const updateForm = document.getElementById('updateForm');
+        updateForm.addEventListener('submit', function (e) {
+          e.preventDefault();
+          const updatedAnime = {
+            title: document.getElementById('title').value,
+            description: document.getElementById('description').value,
+            poster: document.getElementById('poster').value,
+            release_date: document.getElementById('release-date').value,
+            episodes: document.getElementById('episodes').value,
+            rating: document.getElementById('rating').value,
+          };
+  
+          // Send a PATCH request to update the anime
+          fetch('http://localhost:3000/animes/' + animeId, {
+            method: 'PATCH',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(updatedAnime),
+          })
+            .then((res) => {
+              if (res.ok) {
+                return res.json();
+              }
+              throw new Error('Network response was not ok.');
+            })
+            .then(() => {
+              alert('Anime updated successfully');
+              // Reload the anime list after updating
+              displayAnimes();
+            })
+            .catch((error) => {
+              console.error('Error:', error);
+            });
+        });
+      });
+  }  
