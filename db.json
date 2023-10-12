@@ -1,0 +1,1134 @@
+{
+  "animes": [
+    {
+      "id": "1",
+      "title": "Attack on Titan",
+      "release_date": "2013",
+      "episodes": "88",
+      "mc": "Eren Yeager",
+      "rating": "10",
+      "description": "In a world where humanity is on the brink of extinction due to giant humanoid creatures known as Titans, a young man named Eren Yeager joins the fight to reclaim their walled city and uncover the truth behind these mysterious beings.",
+      "poster": "https://m.media-amazon.com/images/I/81dH7-pkjiL.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Levi Ackerman T shirt",
+          "product_description": "Cotton T shirt with Levi Ackerman print",
+          "price": 19.99,
+          "image": "https://m.media-amazon.com/images/I/61dE3b9mvLL._SL1500_.jpg",
+          "inStock": 12
+        },
+        {
+          "id": 2,
+          "product_type": "Toys",
+          "product_name": "Levi Action Figure",
+          "product_description": "Levi Ackerman Miniature action figure",
+          "price": 9.99,
+          "image": "https://media.entertainmentearth.com/assets/images/f3047aefdb984cffb7821c525335ffe4xl.jpg",
+          "inStock": 8
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Eren Action Figure",
+          "product_description": "Eren Yeager miniature action figure",
+          "price": 9.99,
+          "image": "https://m.media-amazon.com/images/I/61Ez5Xx+X4L._AC_UF894,1000_QL80_.jpg",
+          "inStock": 10
+        },
+        {
+          "id": 4,
+          "product_type": "Clothing",
+          "product_name": "Scout Regiment SHirt",
+          "product_description": "Cotton T shirt with Scout Regiment Shield print",
+          "price": 19.99,
+          "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/64/269246/1.jpg?5412",
+          "inStock": 22
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Jujutsu Kaisen",
+      "release_date": "2020",
+      "episodes": "47",
+      "mc": "Itadori Yuuji",
+      "rating": "8.9",
+      "description": "When cursed spirits and dark sorcery threaten the world, Itadori Yuuji becomes a reluctant hero by ingesting a powerful curse and joining the Jujutsu Sorcerers to combat these supernatural threats.",
+      "poster": "https://m.media-amazon.com/images/I/818DUzqnwES.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Kyoto high T shirt",
+          "product_description": "Cotton T shirt with characters print",
+          "price": 19.99,
+          "image": "https://thedya.in/cdn/shop/products/f_17.jpg?v=1686983458&width=713",
+          "inStock": 20
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Gojo Black T shirt",
+          "product_description": "Cotton T shirt with Satoru print",
+          "price": 19.99,
+          "image": "https://img.joomcdn.net/c511d233242329edffecb959b972ba58079500dd_original.jpeg",
+          "inStock": 9
+        },
+        {
+          "id": 3,
+          "product_type": "Clothing",
+          "product_name": "Malovelent Shrine T shirt",
+          "product_description": "Pink Cotton T shirt with ryoiki tenkai print",
+          "price": 19.99,
+          "image": "https://animeapperal.com/cdn/shop/files/1378688032859550167_2048.jpg?v=1689283905&width=493",
+          "inStock": 7
+        },
+        {
+          "id": 4,
+          "product_type": "Clothing",
+          "product_name": "Hello kitty x JJK T shirt",
+          "product_description": "Cotton T shirt with hello kitty x Itadoori print",
+          "price": 19.99,
+          "image": "https://cdn.media.amplience.net/s/hottopic/20928116_hi?$productMainDesktop$&fmt=auto",
+          "inStock": 28
+        },
+        {
+          "id": 5,
+          "product_type": "Toys",
+          "product_name": "Gojo Action Figure",
+          "product_description": "Gojo Satoru standing action figure",
+          "price": 29.99,
+          "image": "https://i.ebayimg.com/images/g/Ch0AAOSw1zph8LUn/s-l1200.webp",
+          "inStock": 1
+        },
+        {
+          "id": 6,
+          "product_type": "Toys",
+          "product_name": "Inumaki Funko Figure",
+          "product_description": "Inumaki Toge action figure",
+          "price": 29.99,
+          "image": "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw48d7411c/images/funko/upload/72047A%20POP%20Animation%20JJK%20S2-%20Toge%20Inumaki_POP_GLAM-WEB.png",
+          "inStock": 9
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Bleach",
+      "release_date": "2004",
+      "episodes": 402,
+      "mc": "Ichigo Kurosaki",
+      "rating": 9.1,
+      "description": " Ichigo Kurosaki, a teenager with the ability to see ghosts, becomes a Soul Reaper after accidentally obtaining their powers. He must protect the living world from evil spirits and guide lost souls to the afterlife while uncovering a world of supernatural intrigue.",
+      "poster": "https://cdn.europosters.eu/image/750/posters/bleach-group-i30380.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Ichigo Bankai T shirt",
+          "product_description": "Cotton T shirt with Ichigo print",
+          "price": 19.99,
+          "image": "https://target.scene7.com/is/image/Target/GUEST_430c5b9e-d2f3-46fa-b42c-c5c246d84071?wid=488&hei=488&fmt=pjpeg",
+          "inStock": 23
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Hitsugaya taicho T shirt",
+          "product_description": "Cotton T shirt with Hitsugaya print",
+          "price": 19.99,
+          "image": "https://img-va.myshopline.com/image/store/2004726175/1676851583617/Toshiro-WBack.jpeg?w=2778&h=2778",
+          "inStock": 12
+        },
+        {
+          "id": 3,
+          "product_type": "Clothing",
+          "product_name": "Kurosaki Ichigo Hoodie",
+          "product_description": "Teal hoodie with Ichigo forms printed",
+          "price": 49.99,
+          "image": "https://bleachmerchandise.shop/wp-content/uploads/2022/07/Bleach-Anime-Hoodie-Men-Women-Fashion-Pullovers-Unisex-Harajuku-Streetwear-Casual-Sweatshirts-Long-Sleeved-Loose-Autumn.jpg",
+          "inStock": 1
+        },
+        {
+          "id": 4,
+          "product_type": "Adhesives",
+          "product_name": "Bleach wall poster",
+          "product_description": "Large bleach wall poster",
+          "price": 17.99,
+          "image": "https://m.media-amazon.com/images/I/611abSpmTqL.jpg",
+          "inStock": 15
+        },
+        {
+          "id": 5,
+          "product_type": "Toys",
+          "product_name": "Abarai Renji Action Figure",
+          "product_description": "Renji Abarai standing action figure",
+          "price": 29.99,
+          "image": "https://m.media-amazon.com/images/I/71oiBJeXLAL._AC_UF894,1000_QL80_.jpg",
+          "inStock": 7
+        },
+        {
+          "id": 6,
+          "product_type": "Toys",
+          "product_name": "Rukia Funko Figure",
+          "product_description": "Kuchiki Rukia fan action figure",
+          "price": 29.99,
+          "image": "https://media.entertainmentearth.com/assets/images/a39b6c46e9ea4f2eb57deaadd2b05053lg.jpg",
+          "inStock": 10
+        },{
+          "id": 7,
+          "product_type": "Collectibles",
+          "product_name": "Rangiku Hentai Manga",
+          "product_description": "Rangiku Matsumoto adult manga",
+          "price": 129.99,
+          "image": "https://kingcomix.com/wp-content/uploads/2022/12/Rangiku-Comic-Pink-Pawg-3.jpg",
+          "inStock": 10
+        }
+
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Demon Slayer",
+      "release_date": "2019",
+      "episodes": 45,
+      "mc": "Tanjiro Kamado",
+      "rating": 9,
+      "description": "Tanjiro Kamado, a kind-hearted boy, becomes a demon slayer after his family is slaughtered by demons, and his sister turned into one. He embarks on a quest for vengeance while seeking a cure for his sister.",
+      "poster": "https://m.media-amazon.com/images/I/81jH5-U+1wL._AC_UF894,1000_QL80_.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Toys",
+          "product_name": "Tanjiro Action Figure",
+          "product_description": "Tanjiro Kamado standing action figure",
+          "price": 29.99,
+          "image": "https://m.media-amazon.com/images/I/51ZX3VXikjL._AC_UF1000,1000_QL80_.jpg",
+          "inStock": 12
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Demon Slayer T shirt",
+          "product_description": "Cotton T shirt with Demon Slayer logo",
+          "price": 19.99,
+          "image": "https://bioworldinternational.co.uk/cdn/shop/files/01-Flat-lay-Above-FR_4f9828eb-5f8b-4241-92cf-4bb56b79c059_1200x1200.jpg?v=1682430110",
+          "inStock": 19
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Nezuko Action Figure",
+          "product_description": "Nezuko Kamado standing action figure",
+          "price": 29.99,
+          "image": "https://m.media-amazon.com/images/I/61rwExsVbaL._AC_UF1000,1000_QL80_.jpg",
+          "inStock": 9
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Vinland Saga",
+      "release_date": "2019",
+      "episodes": 38,
+      "mc": "Thorfinn Karlsefni",
+      "rating": 9.2,
+      "description": "Thorfinn Karlsefni, a young warrior, seeks revenge against the man who killed his father. Set in the Viking Age, this epic tale explores the brutality and heroism of historical Norse warriors.",
+      "poster": "https://i.pinimg.com/1200x/6b/27/42/6b2742b9032c573c92b9dec673b2addc.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Vinland Saga T shirt",
+          "product_description": "Cotton T shirt with Vinland Saga logo",
+          "price": 19.99,
+          "image": "https://ae01.alicdn.com/kf/Sb44b18e777154723873aef175ddbfd7cn.jpg_640x640Q90.jpg_.webp",
+          "inStock": 9
+        },
+        {
+          "id": 2,
+          "product_type": "Toys",
+          "product_name": "Thorfinn Action Figure",
+          "product_description": "Thorfinn Karlsefni standing action figure",
+          "price": 29.99,
+          "image": "https://cdnb.artstation.com/p/assets/images/images/045/609/723/large/milos-kojadinovic-thorfinn-karlsefni-08.jpg?1643128434",
+          "inStock": 11
+        },
+        {
+          "id": 3,
+          "product_type": "Clothing",
+          "product_name": "Thorfinn Tee",
+          "product_description": "Cotton T shirt with Thorffin print",
+          "price": 19.99,
+          "image": "https://www.japannakama.co.uk/wp-content/uploads/2023/06/Harajuku-Anime-VINLAND-SAGA-Men-T-shirt-Casual-Summer-Short-Sleeve-Washed-T-Shirt-Fashion-Men-6.jpg_640x640-6.jpg",
+          "inStock": 11
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "One Punch Man",
+      "release_date": "2009",
+      "episodes": 36,
+      "mc": "Saitama",
+      "rating": 8.7,
+      "description": "Saitama, a superhero who can defeat any opponent with a single punch, seeks excitement and challenges but often finds himself bored in a world filled with powerful villains and heroes.",
+      "poster": "https://cdn.europosters.eu/image/1300/posters/one-punch-man-heroes-i129070.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Saitama Oppai Hoodie",
+          "product_description": "Yellow hoodie with Saitama Oppai print",
+          "price": 49.99,
+          "image": "https://harsido.com/cdn/shop/products/gy-h_1e6eadde-a1d6-4fd3-9853-b33837946708_1024x1024.jpg?v=1657617039",
+          "inStock": 20
+        },
+        {
+          "id": 2,
+          "product_type": "Toys",
+          "product_name": "Saitama Action Figure",
+          "product_description": "Saitama standing action figure",
+          "price": 29.99,
+          "image": "https://i5.walmartimages.com/seo/6-Inchs-Anime-One-Punch-Man-Saitama-Figure-Toy_125a51cb-35ce-4cfb-bf3c-15f5a55b478d.44321a63d76c026a1da8dfd14374554a.jpeg",
+          "inStock": 7
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Genos Action Figure",
+          "product_description": "Genos standing action figure",
+          "price": 29.99,
+          "image": "https://m.media-amazon.com/images/I/51YwNnUFlEL.jpg",
+          "inStock": 13
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Tokyo Ghoul",
+      "release_date": "2014",
+      "episodes": 30,
+      "mc": "Ken Kaneki",
+      "rating": 8.3,
+      "description": "After a chance encounter with a flesh-eating ghoul, Ken Kaneki becomes a half-ghoul himself. Struggling to live in both the human and ghoul worlds, he grapples with his identity and the hunger for human flesh.",
+      "poster": "https://m.media-amazon.com/images/I/615UoMEsDEL.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Kaneki Mask Hoodie",
+          "product_description": "Black hoodie with Kaneki mask print",
+          "price": 49.99,
+          "image": "https://i.ebayimg.com/images/g/SQUAAOSwobJkYAwi/s-l1600.jpg",
+          "inStock": 7
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Ghoul Eyes T shirt",
+          "product_description": "Cotton T shirt with Ghoul eyes print",
+          "price": 19.99,
+          "image": "https://ae01.alicdn.com/kf/Ha7a030bc8e964b07bf61465d124739afd/Tokyo-Ghoul-T-shirt-Streetwear-Harajuku-Japanese-anime-top-Punk-women-s-dark-cartoon-Kaneki-Ken.jpg",
+          "inStock": 12
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Kagune Replica",
+          "product_description": "Ken Kaneki Kagune replica",
+          "price": 39.99,
+          "image": "https://is-it-fake.com/wp-content/uploads/2019/01/kaneki-ken-artfx-j-origin-of-fake-1024x1024.png",
+          "inStock": 3
+        },
+        {
+          "id": 4,
+          "product_type": "Collectibles",
+          "product_name": "Kaneki Mask",
+          "product_description": "Ken Kaneki Ghoul Mask",
+          "price": 154.99,
+          "image": "https://m.media-amazon.com/images/I/51ETtigKz7L._AC_UY1000_.jpg",
+          "inStock": 3
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Naruto",
+      "release_date": "2002",
+      "episodes": 720,
+      "mc": "Naruto Uzumaki",
+      "rating": 9.2,
+      "description": " Naruto Uzumaki, a young ninja with dreams of becoming the strongest ninja and earning the title of Hokage, faces various challenges, battles, and adventures in the ninja world.",
+      "poster": "https://cdn.europosters.eu/image/1300/posters/naruto-shippuden-group-i129089.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Naruto Sage Mode T shirt",
+          "product_description": "Cotton T shirt with Naruto Sage Mode print",
+          "price": 19.99,
+          "image": "https://cdn.media.amplience.net/s/hottopic/14507159_hi",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Hokage Cloak",
+          "product_description": "Naruto Hokage cloak costume",
+          "price": 59.99,
+          "image": "https://m.media-amazon.com/images/I/61ndEXIHqzL._AC_UY1000_.jpg",
+          "inStock": 9
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Naruto Kunai Set",
+          "product_description": "Set of Naruto throwing kunai",
+          "price": 19.99,
+          "image": "https://www.themadshop.com.au/img/product/naruto-kunai-set-6001610-800.jpg",
+          "inStock": 6
+        },
+        {
+          "id": 4,
+          "product_type": "Clothing",
+          "product_name": "Akatsuki cloak",
+          "product_description": "Naruto akatsuki cloak",
+          "price": 124.99,
+          "image": "https://www.levicrew.com/cdn/shop/products/61WZKWWPsgL._AC_UL1500.jpg?v=1648316089&width=1445",
+          "inStock": 2
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "One Piece",
+      "release_date": "1999",
+      "episodes": 1078,
+      "mc": "Monkey D Luffy",
+      "rating": 9.4,
+      "description": "Monkey D. Luffy and his crew embark on a grand adventure to find the legendary One Piece treasure and become the Pirate King. Along the way, they encounter powerful foes and uncover the world's secrets.",
+      "poster": "https://www.ubuy.ke/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjMzZmYxMTU3ZTNmYmMyNTU1NzUxN2M4LW9uZS1waWVjZS1wb3N0ZXItamFwYW5lc2UtYW5pbWUtcG9zdGVycy5qcGc.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Luffy Straw Hat",
+          "product_description": "Straw hat inspired by Monkey D Luffy",
+          "price": 49.99,
+          "image": "https://justinehats.com/wp-content/uploads/2022/02/best-straw-luffy-hat-one-pieces-straw-luffy-hat-custom-size-luffy-hat-3.jpg",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "One Piece Logo T shirt",
+          "product_description": "Cotton T shirt with One Piece logo print",
+          "price": 19.99,
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkX0ghFUNAciNWLaILC_7USzwta3UQiQ43MXVP3zL4viaTDcYE",
+          "inStock": 18
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Luffy Action Figure",
+          "product_description": "Monkey D Luffy standing action figure",
+          "price": 29.99,
+          "image": "https://www.superherotoystore.com/cdn/shop/products/AAGZ709AAAD54-1_1200x.jpg?v=1645009425",
+          "inStock": 10
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Chainsaw Man",
+      "release_date": "2022",
+      "episodes": 12,
+      "mc": "Denji",
+      "rating": 8.9,
+      "description": "Denji, a young man who can transform into a chainsaw-wielding demon hunter, joins a secret organization to eliminate evil devils and reclaim his humanity in a world filled with supernatural threats.",
+      "poster": "https://m.media-amazon.com/images/I/71DOGFSR6bL._AC_UF894,1000_QL80_.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Chainsaw Man Jacket",
+          "product_description": "Red Chainsaw Man-themed jacket",
+          "price": 49.99,
+          "image": "https://sakuracos.net/cdn/shop/products/101007487_2.jpg?v=1673507736&width=1445",
+          "inStock": 8
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Makima T shirt",
+          "product_description": "Cotton T shirt with Makima print",
+          "price": 19.99,
+          "image": "https://m.media-amazon.com/images/I/61FRGD4dSNL._AC_UY580_.jpg",
+          "inStock": 6
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Denji Chainsaw Replica",
+          "product_description": "Replica of Denji's chainsaw",
+          "price": 39.99,
+          "image": "https://m.media-amazon.com/images/I/61oCYIk+I9L._AC_UY1000_.jpg",
+          "inStock": 20
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Code Geass",
+      "release_date": "2006",
+      "episodes": 50,
+      "mc": "Lelouch Lamperouge",
+      "rating": 9.4,
+      "description": " Lelouch Lamperouge gains the power of Geass, which allows him to control minds. He uses this power to challenge the oppressive Britannian Empire and ignite a rebellion in a world of political intrigue and mecha warfare.",
+      "poster": "https://m.media-amazon.com/images/I/71lfpyqBZJL.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Zero Mask Replica",
+          "product_description": "Replica of Lelouch's Zero mask",
+          "price": 29.99,
+          "image": "https://m.media-amazon.com/images/I/61hrs2pi30S._AC_UY350_.jpg",
+          "inStock": 6
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Code Geass Logo T shirt",
+          "product_description": "Cotton T shirt with Code Geass logo print",
+          "price": 19.99,
+          "image": "https://m.media-amazon.com/images/I/61-5ACJjFQL._AC_UY580_.jpg",
+          "inStock": 9
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Knightmare Frame Model Kit",
+          "product_description": "Model kit of the Knightmare Frame mecha",
+          "price": 49.99,
+          "image": "https://m.media-amazon.com/images/I/51bawMTExCL._AC_UF894,1000_QL80_.jpg",
+          "inStock": 12
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "My Hero Academia",
+      "release_date": "2016",
+      "episodes": 123,
+      "mc": "Izuku Midoriya",
+      "rating": 8.6,
+      "description": " In a world where people possess superpowers known as 'Quirks,'Izuku Midoriya, born without one, strives to become a hero. He enrolls in U.A. High School to train alongside other aspiring heroes and face various villains.",
+      "poster": "https://static.bunnycdn.ru/i/cache/images/2018/04/4a5c3cdc5b902d55615603d7ab7aa58f.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "All Might Hoodie",
+          "product_description": "Blue hoodie with All Might print",
+          "price": 49.99,
+          "image": "https://ae01.alicdn.com/kf/S8925c5a04cce4c1f91c4b45ec803a3988/Anime-My-Hero-Academia-All-Might-Print-Hoodie-Casual-Loose-Men-Women-Sweatshirts-Boku-No-Hiro.jpg",
+          "inStock": 7
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "My Hero Academia Logo T shirt",
+          "product_description": "Cotton T shirt with My Hero Academia logo print",
+          "price": 19.99,
+          "image": "https://m.media-amazon.com/images/I/61hFZdwXmtL._AC_UF894,1000_QL80_.jpg",
+          "inStock": 15
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Deku Action Figure",
+          "product_description": "Izuku Midoriya standing action figure",
+          "price": 14.99,
+          "image": "https://ae01.alicdn.com/kf/HTB1DXO1XRv0gK0jSZKbq6zK2FXaR/My-Hero-Academia-Izuku-Midoriya-Deku-Standing-Fighting-Ver-PVC-Action-Figure-No-Hero-Todoroki-Shoto.jpg",
+          "inStock": 23
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Fire Force",
+      "release_date": "2019",
+      "episodes": 48,
+      "mc": "Shinra Kusakabe",
+      "rating": 8,
+      "description": "Shinra Kusakabe joins Special Fire Force Company 8, a group of pyrokinetic individuals, to combat Infernals - human combustion phenomena - and uncover the truth behind this mysterious phenomenon.",
+      "poster": "https://static.bunnycdn.ru/i/cache/images/2018/11/6e9f61a1ec484ae5ab85c80dcb987c06.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Toys",
+          "product_name": "Shinra Action Figure",
+          "product_description": "Shinra Kusakabe standing action figure",
+          "price": 149.99,
+          "image": "https://m.media-amazon.com/images/I/61chO4SErgL.jpg",
+          "inStock": 5
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Fire Force Logo T-shirt",
+          "product_description": "Cotton T-shirt with Fire Force logo print",
+          "price": 19.99,
+          "image": "https://www.pro-bems.com/IMAGES/images_1/FIGMEFIREFTS015/g/FIGMEFIREFTS015_1.png",
+          "inStock": 8
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Fire Force Wall Poster",
+          "product_description": "Large Fire Force wall poster",
+          "price": 17.99,
+          "image": "https://m.media-amazon.com/images/I/81wt5dH0y7L.jpg",
+          "inStock": 12
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Hunter x Hunter",
+      "release_date": "2011",
+      "episodes": 148,
+      "mc": "Gon Freecss",
+      "rating": 9.1,
+      "description": "Gon Freecss embarks on a journey to become a Hunter, just like his father. Along the way, he encounters challenges, makes friends, and uncovers secrets about the Hunter world.",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/99/3c/993c0361975cce4c7fbb11f8558f9664/993c0361975cce4c7fbb11f8558f9664.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Toys",
+          "product_name": "Gon Action Figure",
+          "product_description": "Gon Freecss standing action figure",
+          "price": 29.99,
+          "image": "https://images.goodsmile.info/cgm/images/product/20221213/13670/108519/large/bfa503c0635e7936ec59bd98e0dc3b82.jpg",
+          "inStock": 10
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Hunter x Hunter Logo T-shirt",
+          "product_description": "Cotton T-shirt with Hunter x Hunter logo print",
+          "price": 19.99,
+          "image": "https://www.pro-bems.com/IMAGES/images_1/FIGMEHUNTXTS080/g/FIGMEHUNTXTS080_1.png",
+          "inStock": 3
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Hunter x Hunter Laptop Stickers",
+          "product_description": "Set of laptop stickers with Hunter x Hunter designs",
+          "price": 8.99,
+          "image": "https://m.media-amazon.com/images/I/91a7tuQ7gVL._AC_UF1000,1000_QL80_.jpg",
+          "inStock": 2
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Berserk",
+      "release_date": "1997",
+      "episodes": 25,
+      "mc": "Guts",
+      "rating": 8.6,
+      "description": "Guts, a lone mercenary, seeks vengeance against the demonic forces that branded him. His quest for revenge leads him into a world of darkness, betrayal, and supernatural horrors.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDU0OGY4ZjUtZDFmMS00Y2M1LTg5NTUtYjRiZTY0OTdjYWFmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Toys",
+          "product_name": "Guts Action Figure",
+          "product_description": "Guts standing action figure with Dragonslayer sword",
+          "price": 34.99,
+          "image": "https://images-cdn.ubuy.co.in/635ba05f692ecc44640a9763-ubuy-online-shopping.jpg",
+          "inStock": 9
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Brand of Sacrifice T-shirt",
+          "product_description": "Cotton T-shirt with the Brand of Sacrifice symbol",
+          "price": 21.99,
+          "image": "https://m.media-amazon.com/images/I/71Ekruvcc0L._AC_UY1000_.jpg",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Behelit Laptop Sticker",
+          "product_description": "Laptop sticker with the Behelit design",
+          "price": 0.99,
+          "image": "https://i.pinimg.com/originals/84/47/4d/84474d09c9ca51b488350c2999e260b5.jpg",
+          "inStock": 23
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Tokyo Revengers",
+      "release_date": "2021",
+      "episodes": "24",
+      "mc": "Takemichi Hanagaki",
+      "rating": "8.5",
+      "description": "Takemichi Hanagaki discovers he can time-travel. He uses this power to save his ex-girlfriend from a tragic fate and becomes embroiled in Tokyo's dangerous gang conflicts.",
+      "poster": "https://static.bunnycdn.ru/i/cache/images/7/74/74380843242f2c6a8ae40b02b9b428f9.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Toys",
+          "product_name": "Takemichi Action Figure",
+          "product_description": "Takemichi Hanagaki standing action figure",
+          "price": 29.99,
+          "image": "https://m.media-amazon.com/images/I/41+hbNJDO0L._AC_UF1000,1000_QL80_.jpg",
+          "inStock": 8
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Tokyo Manji Gang T-shirt",
+          "product_description": "Cotton T-shirt with Tokyo Manji Gang emblem",
+          "price": 19.99,
+          "image": "https://my-test-11.slatic.net/p/cb5e4718dfca590e2b67481962c13e59.jpg",
+          "inStock": 1
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Laptop sticker pack",
+          "product_description": "Laptop sticker pack for Tokyo Revengers",
+          "price": 6.99,
+          "image": "https://m.media-amazon.com/images/I/91v4Ej6yYIS.jpg",
+          "inStock": 9
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Black Clover",
+      "release_date": "2017",
+      "episodes": "170",
+      "mc": "Asta",
+      "rating": "8.1",
+      "description": "Asta, a boy born without magic in a world where magic is everything, aims to become the Wizard King with the help of his anti-magic abilities.",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/f5/8b/f58b0204c20ae3310f65ae7b8cb9987e/f58b0204c20ae3310f65ae7b8cb9987e.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Toys",
+          "product_name": "Asta & Yuno Action Figures Set",
+          "product_description": "Action figures of Asta and Yuno",
+          "price": 134.99,
+          "image": "https://i.ebayimg.com/images/g/rjkAAOSwWNRgYZTB/s-l1200.jpg",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Black Bulls Robe Hoodie",
+          "product_description": "Hoodie with the Black Bulls robe design",
+          "price": 24.99,
+          "image": "https://i.ebayimg.com/images/g/OqYAAOSwxnZbkePF/s-l1200.jpg",
+          "inStock": 3
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Black Clover Grimoire Stickers",
+          "product_description": "Set of stickers featuring various Grimoires",
+          "price": 7.99,
+          "image": "https://ae01.alicdn.com/kf/Sef8dd4a60f8244aa83973bb88c3feeb41.jpg_640x640Q90.jpg_.webp",
+          "inStock": 10
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "High School DxD",
+      "release_date": "2012",
+      "episodes": 49,
+      "mc": "Issei Hyoudou",
+      "rating": 7.4,
+      "description": "Issei Hyoudou, a high school student, is killed by a fallen angel but is revived as a devil. He joins the Occult Research Club and gets involved in supernatural battles.",
+      "poster": "https://m.media-amazon.com/images/I/91tL6JYwbRL.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Toys",
+          "product_name": "Issei Action Figure",
+          "product_description": "Issei Hyoudou action figure with Boosted Gear",
+          "price": 28.99,
+          "image": "https://www.figurerealm.com/userimages/customs/113500/thumb_113458-2-62c6e5a4af215.jpg",
+          "inStock": 1
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Occult Research Club T-shirt",
+          "product_description": "T-shirt featuring the Occult Research Club emblem",
+          "price": 18.99,
+          "image": "https://ih1.redbubble.net/image.181106870.6565/ssrco,slim_fit_t_shirt,flatlay,heather_grey,front,wide_portrait,750x1000-bg,f8f8f8.u2.jpg",
+          "inStock": 3
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Issei sticker",
+          "product_description": "Issei's sticker",
+          "price": 1.99,
+          "image": "https://ih1.redbubble.net/image.1731786691.1528/st,small,507x507-pad,600x600,f8f8f8.jpg",
+          "inStock": 7
+        },
+        {
+          "id": 4,
+          "product_type": "Pillows",
+          "product_name": "Himejima Waifu Pillow",
+          "product_description": "Himejima full body Waifu Pillow",
+          "price": 34.99,
+          "image": "https://m.media-amazon.com/images/I/81Za4D3O6rL._AC_UF894,1000_QL80_.jpg",
+          "inStock": 1
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Death Note",
+      "release_date": "2006",
+      "episodes": 37,
+      "mc": "Light Yagami",
+      "rating": 9,
+      "description": "Light Yagami, a high school student, gains a notebook with the power to kill anyone whose name is written in it. He decides to use it to rid the world of criminals.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Collectibles",
+          "product_name": "Death Note Replica",
+          "product_description": "Replica of Light Yagami's Death Note",
+          "price": 6.99,
+          "image": "https://www.otakustore.gr/files/products/784-1b.jpg",
+          "inStock": 13
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Kira T-shirt",
+          "product_description": "T-shirt with the Kira print",
+          "price": 19.99,
+          "image": "https://cdn.youcan.shop/stores/68525dafbba5bb602399d069cdd04e90/products/l592cO1BAPqW3jb1qJYivvsLKr6olxvm0KTIRsxy.jpeg",
+          "inStock": 8
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Laptop sticker pack",
+          "product_description": "Laptop sticker pack for Death Note",
+          "price": 7.99,
+          "image": "https://m.media-amazon.com/images/I/71zkUzkj6dL.jpg",
+          "inStock": 5
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Classroom of the Elite",
+      "release_date": "2017",
+      "episodes": 12,
+      "mc": "Kiyotaka Ayanokouji",
+      "rating": 7.7,
+      "description": "Kiyotaka Ayanokouji enrolls in an elite high school where students are ranked by merit. He conceals his true abilities while navigating the complexities of this unique system.",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/6a/c7/6ac7e4623d5c97699058b8b4673cf8e5/6ac7e4623d5c97699058b8b4673cf8e5.png",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Accessories",
+          "product_name": "Advanced Nurturing High School Phonecase",
+          "product_description": "Phone case featuring the school's emblem",
+          "price": 9.99,
+          "image": "https://www.1999.co.jp/itbig49/10492784.jpg",
+          "inStock": 4
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Advanced Nurturing High School Uniform",
+          "product_description": "Replica of the school uniform from Classroom of the Elite",
+          "price": 39.99,
+          "image": "https://ae01.alicdn.com/kf/S85b291559df64381be9fff3689460950N.jpg_640x640Q90.jpg_.webp",
+          "inStock": 17
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Class Ranking Stickers",
+          "product_description": "Stickers with class ranking symbols",
+          "price": 5.99,
+          "image": "https://ih1.redbubble.net/image.4276234082.1544/st,small,507x507-pad,600x600,f8f8f8.u4.jpg",
+          "inStock": 20
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "The Eminence in Shadow",
+      "release_date": "2021",
+      "episodes": 12,
+      "mc": "Cid Kagenou",
+      "rating": 7.8,
+      "description": "Cid Kagenou, a fan of secret societies, is reincarnated into a world of magic and heroes. He aims to become the 'Shadow Leader' of his own secret society and manipulates events from the shadows.",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/bc/a4/bca4a71e271a30fb1b44d33d56db8f8f/bca4a71e271a30fb1b44d33d56db8f8f.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Collectibles",
+          "product_name": "Shadow Leader Plush Doll",
+          "product_description": "Plush doll of Cid Kagenou in his Shadow Leader attire",
+          "price": 9.99,
+          "image": "https://ae01.alicdn.com/kf/Scf7254071f5c41ba90f779b8ae964c9ao.jpg_640x640Q90.jpg_.webp",
+          "inStock": 9
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Secret Society Emblem Hoodie",
+          "product_description": "Hoodie featuring the emblem of Cid's secret society",
+          "price": 29.99,
+          "image": "https://ae01.alicdn.com/kf/S34a78ba03bdf4e8d9c52fab9e6f7f3f4B/Cid-Kagenou-The-Eminence-In-Shadow-Hoodies-Kage-No-Jitsuryokusha-Ni-Naritakute-Anime-Sweatshirts-Long-Sleeve.jpg",
+          "inStock": 11
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Shadow Manipulator Decal",
+          "product_description": "Decal with the symbol of the Shadow Manipulator",
+          "price": 7.99,
+          "image": "https://static.wikia.nocookie.net/dont-starve-game/images/6/6b/Shadow_Manipulator_Build.png/revision/latest?cb=20220330230957",
+          "inStock": 15
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Blue Lock",
+      "release_date": "2022",
+      "episodes": 13,
+      "mc": "Isagi Yoichi",
+      "rating": 7.9,
+      "description": "Isagi Yoichi is selected for Blue Lock, a program to create the world's best striker. He competes against other candidates to become the ultimate forward in soccer.",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/fc/ed/fced51e392ffd80041b3a1581ba7de2f/fced51e392ffd80041b3a1581ba7de2f.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Accessories",
+          "product_name": "Blue Lock Keychains",
+          "product_description": "Keychains with blue lock characters",
+          "price": 19.99,
+          "image": "https://i.etsystatic.com/14920390/r/il/271f2f/5148565554/il_fullxfull.5148565554_jlu3.jpg",
+          "inStock": 6
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Blue Lock Training Jersey",
+          "product_description": "Jersey worn by Blue Lock candidates in the series",
+          "price": 129.99,
+          "image": "https://ae01.alicdn.com/kf/S2eebb5956af447d594917b5902780c1f5.jpg_640x640Q90.jpg_.webp",
+          "inStock": 4
+        },
+        {
+          "id": 3,
+          "product_type": "Toys",
+          "product_name": "Seishiro Nagi Action Figure",
+          "product_description": "Seishiro Nagi standing action figure",
+          "price": 51.99,
+          "image": "https://resize.cdn.otakumode.com/ex/550.800/shop/product/f6e7d955a17a403eaa87d1b4679b03b7.jpg",
+          "inStock": 7
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Spy x Family",
+      "release_date": "2022",
+      "episodes": 12,
+      "mc": "Twilight",
+      "rating": 8,
+      "description": "Twilight, a spy, is on a mission to get close to an elusive target. To do so, he forms an unconventional family with an esper girl and an assassin, each with their own secrets.",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/88/bd/88bd17534dc4884f23027035d23d74e5/88bd17534dc4884f23027035d23d74e5.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Collectibles",
+          "product_name": "Twilight Plush Doll",
+          "product_description": "Plush doll of Twilight, the spy",
+          "price": 18.99,
+          "image": "https://www.cutetrendybn.com/wp-content/uploads/2023/06/CuteTrendy.bn-01673a.jpg",
+          "inStock": 2
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Spy x Family Family Portrait T-shirt",
+          "product_description": "T-shirt featuring the unique family portrait",
+          "price": 21.99,
+          "image": "https://target.scene7.com/is/image/Target/GUEST_8337d242-5f46-4039-996c-a71b211de156?qlt=65&fmt=pjpeg&hei=350&wid=350",
+          "inStock": 12
+        },
+        {
+          "id": 3,
+          "product_type": "Adhesives",
+          "product_name": "Laptop sticker pack",
+          "product_description": "Laptop sticker pack for Spy X Family",
+          "price": 6.99,
+          "image": "https://m.media-amazon.com/images/I/91TA5PA3YiL.jpg",
+          "inStock": 2
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Haikyu!!",
+      "release_date": "2014",
+      "episodes": 85,
+      "mc": "Shoyo Hinata",
+      "rating": 8.8,
+      "description": "Shoyo Hinata joins the Karasuno High School volleyball team, aiming to become a top player. The team faces fierce competition and rivals on their journey.",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/12/67/126756b57f51180a156a6895b0166643/126756b57f51180a156a6895b0166643.jpg",
+      "merchandise": [
+        {
+          "id": 1,
+          "product_type": "Sporting Goods",
+          "product_name": "Karasuno Volleyball Replica",
+          "product_description": "Replica of the Karasuno High School volleyball",
+          "price": 124.99,
+          "image": "https://www.picclickimg.com/TIgAAOSwFDBkr6M9/Haikyuu-Volleyball-Mikasa-Collaboration.webp",
+          "inStock": 7
+        },
+        {
+          "id": 2,
+          "product_type": "Clothing",
+          "product_name": "Karasuno Team Jersey",
+          "product_description": "Jersey worn by Karasuno volleyball players",
+          "price": 29.99,
+          "image": "https://m.media-amazon.com/images/I/51rIQ4Ur8PL._AC_UY1000_.jpg",
+          "inStock": 3
+        },
+        {
+          "id": 3,
+          "product_type": "Collectibles",
+          "product_name": "Merch pack",
+          "product_description": "Haikyuu Merch Set, 6 Keychains 8 Buttons 30 Haikyuu Lomo Card 50 Haikyuu Stickers 1 Phone Ring",
+          "price": 7.99,
+          "image": "https://m.media-amazon.com/images/I/81SzRPUYIQL.jpg",
+          "inStock": 1
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Your lie in April",
+      "release_date": "2014",
+      "episodes": 12,
+      "mc": "Shoyo Hinata",
+      "rating": 8.8,
+      "description": "Former piano prodigy Kousei is living a somewhat uninspired life, until he meets Kaori, a free-spirited multi-instrumentalist",
+      "poster": "https://www.arthipo.com/image/cache/catalog/poster/anime/1898-2381/anime2376-your-lie-in-april-6-763x1100.webp",
+      "merchandise":[
+       
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Cyberpunk",
+      "release_date": "2022",
+      "episodes": 12,
+      "mc": "David Martinez",
+      "rating": 8.9,
+      "description": "A street kid trying to survive in Night City — a technology and body modification-obsessed city of the future",
+      "poster": "https://i.ebayimg.com/images/g/lFYAAOSwF4Fi45BS/s-l1600.jpg",
+      "merchandise":[
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "Cyberpunk T-shirt",
+          "product_description": "Cotton T shirt with cyberpunk edgerunners print",
+          "price": 19.99,
+          "image": "https://m.media-amazon.com/images/I/A13usaonutL._AC_CLa%7C2140%2C2000%7C91VdYhSXEYL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_UY1000_.png",
+          "inStock": 2
+      },
+      {
+        "id": 2,
+        "product_type": "Accessories",
+        "product_name": "Rebecca Gym Cup",
+        "product_description": "Water bottle with waifu print",
+        "price": 19.99,
+        "image": "https://preview.redd.it/rebecca-gym-cup-v0-4hl91ygpfyua1.jpg?width=640&crop=smart&auto=webp&s=f8205e54b94c7319d89b06d9cb631e0d046cda03",
+        "inStock": 1
+    },
+    {
+      "id": 3,
+      "product_type": "Collectibles",
+      "product_name": "Rebecca Waifu Pillow",
+      "product_description": "Rebecca life sixe waifu pillow",
+      "price": 159.99,
+      "image": "https://shop.mitgard.com/cdn/shop/products/Rebecca_cyberpunk_body-pillow-dakimakura_2-sides.jpg?v=1679755776",
+      "inStock": 1
+  }
+
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Full Metal Alchemist",
+      "release_date": "2003",
+      "episodes": 51,
+      "mc": "Edward Elric",
+      "rating": 8.4,
+      "description": "The series follows the journey of two alchemist brothers, Edward and Alphonse Elric, who are searching for the philosopher's stone to restore their bodies after a failed attempt to bring their mother back to life",
+      "poster": "https://cdn.europosters.eu/image/1300/posters/fullmetal-alchemist-key-art-i160464.jpg",
+      "merchandise":[
+        {
+          "id": 1,
+          "product_type": "Clothing",
+          "product_name": "FMA T-shirt",
+          "product_description": "Cotton T shirt with Full Metal Alchemist Brotherhood print",
+          "price": 19.99,
+          "image": "https://cdn.media.amplience.net/s/hottopic/20626179_hi?$productTileDesktop$&fmt=auto",
+          "inStock": 7
+      },
+      {
+        "id": 2,
+        "product_type": "Collectibles",
+        "product_name": "Roy Mustang Action Figure",
+        "product_description": "Roy Mustang  miniature action figure",
+        "price": 149.99,
+        "image": "https://now.estarland.com/images/products/27/62727/MERCH-Fullmetal-Alchemist-Brotherhood-Roy-ArtFX-J-Statue-large-image.jpg",
+        "inStock": 1
+    },
+    {
+      "id": 3,
+      "product_type": "Collectibles",
+      "product_name": "Edward's watch",
+      "product_description": "Edward`s Watch | Fullmetal Alchemist",
+      "price": 34.99,
+      "image": "https://www.otakustore.gr/files/products/12591-1b.jpg",
+      "inStock": 4
+  }
+
+      ]
+    }
+
+
+  ]
+}
