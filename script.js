@@ -256,7 +256,7 @@ document.getElementById('newAnime').addEventListener('click', function (e) {
 // Function to add a new anime
 function addAnime(animeDetails) {
   // Send a POST request to add the new anime on the backend
-  fetch('hhttps://animestore.onrender.com/animes', {
+  fetch('https://animestore.onrender.com/animes', {
       method: 'POST',
       headers: {
           'Content-Type': 'application/json',
