@@ -1,5 +1,5 @@
 #   ANIME STORE 
-#   BY SEAN NYANDUSI 05/10/2023
+#   BY SEAN NYANDUSI 11/10/2023
 ![Project Image](images/project_image.png)
 
 ## Table of Contents
